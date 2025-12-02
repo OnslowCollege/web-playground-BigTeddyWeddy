@@ -1,19 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 h2 {
-    margin: 100px 0px 20px 100px;
+    text-align: center;
+    margin: 120px 0px 20px 0px;
+    font-size: 30px;
+    font-family: "Open Sans";
 }
 h1 {
     text-align: center;
     font-size: 60px;
+    margin-top: 30px;
+    font-family: "Open Sans";
 }
-img {
+.First img {
     width: 320px;
     float: right;
+    margin: 180px 50px 0px 0px;
+    font-family: "Open Sans";
 }
 h3 {
     text-align: center;
     font-size: 36px;
+    margin-bottom: 0px;
+    font-family: "Open Sans";
 }
-p{
-    width: 900px;
-    margin: 0px 30px;
+p {
+    width: 915px;
+    margin: 0px 50px;
+    font-size: 21px;
+    font-family: "Open Sans";
+}
+.Gallery img {
+    width: 705px;
+    margin: 6px;
+}
+span h1 {
+    margin: 120px 0px 20px 0px;
+}
+.Download a, .Website a, .page1 a, .page2 a {
+    background-color: lime;
+    border-radius: 10px;
+    width: 150px;
+    height: 36px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+.Download {
+    margin-left: 1000px;
+    margin-top: -105px;
+}
+.Website {
+    margin-left: 1000px;
+    margin-top: 45px;
+    margin-bottom: 90px;
+}
+.DText {
+    margin-top: 45px;
+}
+.page1 {
+    margin-left: 480px;
+    margin-top: 60px;
+    margin-bottom: -90px;
+}
+.page2 {
+    margin-left: 690px;
+    margin-top: 62.5px;
+    margin-bottom: -60px;
 }
